@@ -47,9 +47,7 @@
                 </div>
               </td>
               <td class="align-middle">
-                <button class="btn btn-link text-secondary mb-0">
-                  <i class="fa fa-ellipsis-v text-xs" aria-hidden="true"></i>
-                </button>
+               
               </td>
             </tr>
             <tr>
@@ -82,9 +80,7 @@
                 </div>
               </td>
               <td class="align-middle">
-                <button class="btn btn-link text-secondary mb-0" aria-haspopup="true" aria-expanded="false">
-                  <i class="fa fa-ellipsis-v text-xs" aria-hidden="true"></i>
-                </button>
+               
               </td>
             </tr>
             <tr>
@@ -117,9 +113,7 @@
                 </div>
               </td>
               <td class="align-middle">
-                <button class="btn btn-link text-secondary mb-0" aria-haspopup="true" aria-expanded="false">
-                  <i class="fa fa-ellipsis-v text-xs" aria-hidden="true"></i>
-                </button>
+               
               </td>
             </tr>
             <tr>
@@ -152,44 +146,7 @@
                 </div>
               </td>
               <td class="align-middle">
-                <button class="btn btn-link text-secondary mb-0" aria-haspopup="true" aria-expanded="false">
-                  <i class="fa fa-ellipsis-v text-xs" aria-hidden="true"></i>
-                </button>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <div class="d-flex px-2">
-                  <div>
-                    <img src="https://demos.creative-tim.com/argon-dashboard/assets/img/small-logos/github.png"
-                      class="avatar avatar-sm rounded-circle me-2" alt="webdev">
-                  </div>
-                  <div class="my-auto">
-                    <h6 class="mb-0 text-sm">GitHub</h6>
-                  </div>
-                </div>
-              </td>
-              <td>
-                <p class="text-sm font-weight-bold mb-0">$300</p>
-              </td>
-              <td>
-                <span class="text-xs font-weight-bold">В разработке</span>
-              </td>
-              <td class="align-middle text-center">
-                <div class="d-flex align-items-center justify-content-center">
-                  <span class="me-2 text-xs font-weight-bold">80%</span>
-                  <div>
-                    <div class="progress">
-                      <div class="progress-bar bg-gradient-info" role="progressbar" aria-valuenow="80" aria-valuemin="0"
-                        aria-valuemax="80" style="width: 80%;"></div>
-                    </div>
-                  </div>
-                </div>
-              </td>
-              <td class="align-middle">
-                <button class="btn btn-link text-secondary mb-0" aria-haspopup="true" aria-expanded="false">
-                  <i class="fa fa-ellipsis-v text-xs" aria-hidden="true"></i>
-                </button>
+
               </td>
             </tr>
             <tr>
@@ -212,19 +169,17 @@
               </td>
               <td class="align-middle text-center">
                 <div class="d-flex align-items-center justify-content-center">
-                  <span class="me-2 text-xs font-weight-bold">100%</span>
+                  <span class="me-2 text-xs font-weight-bold">50%</span>
                   <div>
                     <div class="progress">
                       <div class="progress-bar bg-gradient-success" role="progressbar" aria-valuenow="100"
-                        aria-valuemin="0" aria-valuemax="100" style="width: 10%;"></div>
+                        aria-valuemin="0" aria-valuemax="50" style="width: 50%;"></div>
                     </div>
                   </div>
                 </div>
               </td>
               <td class="align-middle">
-                <button class="btn btn-link text-secondary mb-0" aria-haspopup="true" aria-expanded="false">
-                  <i class="fa fa-ellipsis-v text-xs" aria-hidden="true"></i>
-                </button>
+
               </td>
             </tr>
           </tbody>

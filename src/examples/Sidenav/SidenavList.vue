@@ -77,7 +77,7 @@ export default {
   },
   data() {
     return {
-      title: "Argon Dashboard 2",
+      title: "",
       controls: "dashboardsExamples",
       isActive: "active"
     };

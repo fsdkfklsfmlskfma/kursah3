@@ -156,7 +156,7 @@ export default {
           detail: "за последнюю четверть",
         },
         sales: {
-          title: "Продажи",
+          title: "Продажи акций",
           value: "$3,430",
           percentage: "+5%",
           iconClass: "ni ni-cart",
@@ -195,9 +195,9 @@ export default {
         },
         russia: {
           country: "Россия",
-          sales: "5000",
+          sales: "5.000",
           value: "$200,000",
-          bounce: "110%",
+          bounce: "30.4%",
           flag: RU,
         }
       },
